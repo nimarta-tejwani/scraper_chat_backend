@@ -17,6 +17,10 @@ The project has been developed using following tools and technologies
 
 - Run following commands
 
+    - To create virtual environment
+
+            python -m venv .venv 
+
     - To activate Virtual Environment
 
             venv\Scripts\activate
