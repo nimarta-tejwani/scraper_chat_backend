@@ -1,4 +1,4 @@
-# Scraper Chat
+# Scraper Chat (Backend)
 
 The project has been developed using following tools and technologies
 - Python 3.11
